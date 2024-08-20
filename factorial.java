@@ -2,7 +2,7 @@ import java.util.*;
 public class factorial {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
-        System.err.println("Enter the number");
+        System.out.println("Enter the number");
         int a=s.nextInt();
         int f=fact(a);
         System.err.println("Factorial is "+f);

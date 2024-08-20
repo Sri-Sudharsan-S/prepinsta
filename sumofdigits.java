@@ -11,6 +11,6 @@ public class sumofdigits {
             sum=sum+a%10;
             a=a/10;
         }
-        System.out.println("Sum of digits is 0"+sum);
+        System.out.println("Sum of digits is 0200"+sum);
     }
 }
